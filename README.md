@@ -3,7 +3,7 @@
 </div>
 <div id="badges"  align="center">
 
-<a href="https://www.instagram.com/HB. Bhardwaj/">
+<a href="https://www.instagram.com/harshil_bhardwaj_/">
   <img height="40px" width="40" src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338392_1280.png" alt="Instagram Badge"/>
  
 </a>
@@ -38,7 +38,7 @@ I am a Flutter  App Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: <a href="https://www.instagram.com/HB. Bhardwaj/"><img src="https://img.shields.io/badge/instagram-12k-important"></a>
+- :mailbox:How to reach me: <a href="https://www.instagram.com/harshil_bhardwaj_/"><img src="https://img.shields.io/badge/instagram-12k-important"></a>
 
 
 
