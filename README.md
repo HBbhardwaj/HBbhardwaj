@@ -1,69 +1,53 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges"  align="center">
-
-<a href="https://www.instagram.com/harshil_bhardwaj_/">
-  <img height="40px" width="40" src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338392_1280.png" alt="Instagram Badge"/>
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300" height="100"/>
+  
+  <div id="badges">
+  <a href="https://Linkedin.com/users/14562817/Harshil Bhardwaj ">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Linkedin Badge"/>
+  </a>
  
-</a>
- 
-
+  <a href="https://mobile.Instagram.com/HB. Bhardwaj">
+    <img src="https://img.shields.io/badge/Gmail-Orange?style=for-the-badge&logo=Instagram &logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
-
-<div align="center">
-   <img src="https://komarev.com/ghpvc/?username=HBbhardwaj&style=flat-square&color=blue" alt=""/>
-
-</div>
-
-
-<div align="center">
-<h1>
-  Hey there, I'm Harshil Bhardwaj !
+<img src="https://komarev.com/ghpvc/?username=your-github-HBbhardwaj&style=flat-square&color=blue" alt=""/>
+  <h1>
+  hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif" width="600" height="300"/>
-</div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+  
+  
 ---
 
 ### :woman_technologist: About Me :
-I am a Flutter  App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nowhere.
-- :telescope: I’m working as a Software Engineer and I'm  frontend developer work on app and web app  applications.
 
-- :seedling: Exploring Technical Content Writing.
+  I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+  - :telescope: I'm currently working on Flutter.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :seedling: I'm currently learning and exploring mmore about AI and ML.
+- :speech_balloon: Ask me about Flutter or any tech-related stuff.
 
-- :mailbox:How to reach me: <a href="https://www.instagram.com/harshil_bhardwaj_/"><img src="https://img.shields.io/badge/instagram-12k-important"></a>
+- :zap: In my free time, I love to make the time free.
 
-
-
+- :mailbox:How to reach me: [![Twitter]("https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white")](https://Linkedin.com/Harshil Bhardwaj)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%230095D5.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) !  !![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) )
 
 ---
 
-### :fire: My Stats :
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=HBbhardwaj&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HBbhardwaj&theme=flag-india&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HBbhardwaj&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HBbhardwaj&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=HBbhardwaj&show_icons=true&theme=radical"/>
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HBbhardwaj&layout=compact"/>
