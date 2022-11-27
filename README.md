@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/52344717?v=4" width="300" height="300" />
+  <img src="https://o.remove.bg/downloads/4126b81d-d751-4793-b94f-df06e88d6e3e/image-removebg-preview.png" width="300" height="300" />
   
   <div id="badges">
   <a href=https://www.linkedin.com/in/harshil-bhardwaj-5525b7212/>
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Linkedin Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-HBbhardwaj&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=your-github-HBbhardwaj&style=flat-square&color=blue" alt="HBbhardwaj"/>
   <h1>
   Hello Everyone,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -19,7 +19,8 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+  <img src="https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60" width="500" height="300"/>
 </div>
   
   
@@ -36,8 +37,8 @@
 - :zap: In my free time, I love to make the time free.
 
 - :mailbox:How to reach me: WhatsApp Number is :- 7018330774
-- Gmail is :- harbhar2001@gmail.com
-- you can also connect with me my Linkedin :https://www.instagram.com/harshil_bhardwaj_/
+- Connect with Email :- harbhar2001@gmail.com
+- you can also follow me on Instagram :https://www.instagram.com/harshil_bhardwaj_/
 
 ---
 
