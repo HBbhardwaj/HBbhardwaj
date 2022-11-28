@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://o.remove.bg/downloads/4126b81d-d751-4793-b94f-df06e88d6e3e/image-removebg-preview.png" width="300" height="300" />
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300" height="100"/>
   
   <div id="badges">
   <a href=https://www.linkedin.com/in/harshil-bhardwaj-5525b7212/>
